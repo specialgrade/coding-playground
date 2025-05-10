@@ -7,7 +7,7 @@ This is a personal initiative where I commit to **at least one program every day
 
 ## Structure
 - Each folder is named after a **programming language**.
-- Inside each language folder are subfolders for **daily entries**, named by date.
+- Inside each language folder are subfolders named by date for **daily entries**.
 - Each entry contains a named program file and a brief explanation (if necessary).
 
 ---
@@ -24,8 +24,8 @@ This is a personal initiative where I commit to **at least one program every day
 ## Languages Practiced
 
 - Java ☕
-- Python 
-- JavaScript 
-- SQL
-- NoSQL
+- Python 🐍
+- JavaScript 📱
+- SQL 🗃️
+- NoSQL 🗒️
 *(And more as I explore!)*
