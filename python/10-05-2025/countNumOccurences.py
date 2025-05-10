@@ -1,5 +1,7 @@
 import numpy as np
 
+# This is a simple program that counts the occurences of a target number inside an array set by the user.
+
 def countNumOccurences(target, arr):
     count = 0
     for i in range(len(arr)):
