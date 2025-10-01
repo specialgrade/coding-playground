@@ -13,7 +13,8 @@ This repository serves as my **personal coding playground** throughout my year i
 - Document my progress and growth as a student in IT.  
 
 ## Tech Stack Practiced  
+- **C** – Programming fundamentals and system-level concepts.
 - **Java** – OOP, data structures, and algorithms.  
-- **Python** – Scripting, problem-solving, and automation.  
+- **Python** – Scripting, problem-solving, and automation.
 
 > This is not a polished project repo, but rather a **sandbox of growth**, documenting my coding journey as an IT student.  
