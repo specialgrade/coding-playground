@@ -1,31 +1,19 @@
-# 👩‍💻 Coding Challenge
+# Coding Playground  
 
-This is a personal initiative where I commit to **at least one program every day** to improve my proficiency across various programming languages. The goal is to strengthen problem-solving skills, understand syntax differences, and explore language-specific features.
+This repository serves as my **personal coding playground** throughout my year in **Information Technology**. Here, I practice programming concepts, experiment with different languages, and build small projects to sharpen my problem-solving and logical thinking skills.  
 
-> **"Small daily improvements are the key to staggering long-term results." – James Clear**
----
+## Structure  
+- Each folder is named after a **programming language**.  
+- Inside each language folder are subfolders or files for exercises, challenges, and projects.  
+- Some entries include notes or explanations for concepts I explored.  
 
-## Structure
-- Each folder is named after a **programming language**.
-- Inside each language folder are subfolders named by date for **daily entries**.
-- Each entry contains a named program file and a brief explanation (if necessary).
+## Purpose  
+- Strengthen problem-solving through hands-on coding.  
+- Explore syntax and features across different programming languages.  
+- Document my progress and growth as a student in IT.  
 
----
+## Tech Stack Practiced  
+- **Java** – OOP, data structures, and algorithms.  
+- **Python** – Scripting, problem-solving, and automation.  
 
-## Commit Philosophy
-
-- 💡 1 meaningful program per day.
-- 🗓️ Commits include the date.
-- 🧪 Includes testing/output where applicable.
-- 📘 Learning notes are added when I encounter something new.
-
----
-
-## Languages Practiced
-
-- Java ☕
-- Python 🐍
-- JavaScript 📱
-- SQL 🗃️
-- NoSQL 🗒️
-*(And more as I explore!)*
+> This is not a polished project repo, but rather a **sandbox of growth**, documenting my coding journey as an IT student.  
